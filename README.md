@@ -39,5 +39,6 @@ MATLAB <br />
 MATLAB - Parallel Computing Toolbox
 
 # MATLAB Central
+[![View Measure curvature and visualize on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/96982-measure-curvature-and-visualize)
 
 
