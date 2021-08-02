@@ -28,11 +28,11 @@ share the modified version code with me.
 ## Example: Curvature visualization
 | Blob |
 | ------------- |
-| <img width="841" alt="blobviz" src="https://user-images.githubusercontent.com/28588878/127914949-b30a04cf-fd3b-4ce6-8086-9486afdc1ab5.png"> |
+| <img width="1396" alt="blobviz" src="https://user-images.githubusercontent.com/28588878/127915873-2641a1c1-01e2-45a5-ad80-2ad0f57cce0a.png"> |
 
 | T-section |
 | ------------- |
-| <img width="896" alt="Tsectionviz" src="https://user-images.githubusercontent.com/28588878/127915070-17a01ba2-9e23-4164-a541-a802f824b057.png"> |
+| <img width="1399" alt="Tsectionviz" src="https://user-images.githubusercontent.com/28588878/127915909-23db293b-5967-4fea-a301-c29999631615.png"> |
 
 # Requirements
 MATLAB
