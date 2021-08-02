@@ -2,7 +2,7 @@ function [shape, Icurv] = curvature(image, boundaryPoint, curvatureThresh, ...
                                     bp_tangent, interp_resolution, loopclose)
 
 %%***********************************************************************%
-%*                           Custom colormap                            *%
+%*                         Curvature measure                            *%
 %*                  Measure shape properties of loops.                  *%
 %*                                                                      *%
 %* Original author: Dr. Meghan Driscoll                                 *%
