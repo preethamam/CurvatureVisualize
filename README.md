@@ -1,7 +1,7 @@
 # Introduction
 Measures the shape properties of the object boundaries and displays the curvature.
 
-Original author: **Dr. Meghan Driscoll**
+Original author: **Dr. Meghan Driscoll** <br />
 Modified and compacted/concised a complicated codebase by: Preetham Manjunatha
 
 Thanks to Dr. Meghan Driscoll who kindly shared her code for academic purpose.
