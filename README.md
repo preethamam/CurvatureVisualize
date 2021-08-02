@@ -1,5 +1,5 @@
 # Introduction
-Find the shape properties of the object boundaries and display the curvature.
+Measures the shape properties of the object boundaries and display the curvature.
 
 # Quick Pipeline Visualization
 ## Example: Curvature visualization
@@ -13,6 +13,7 @@ Find the shape properties of the object boundaries and display the curvature.
 
 # Requirements
 MATLAB
+MATLAB - Parallel Computing Toolbox
 
 # MATLAB Central
 
