@@ -1,5 +1,5 @@
 # Introduction
-Measures the shape properties of the object boundaries and display the curvature.
+Measures the shape properties of the object boundaries and displays the curvature.
 
 Original author: Dr. Meghan Driscoll
 Modified and compacted/concised a complicated codebase by: Preetham Manjunatha
