@@ -19,13 +19,16 @@ function [shape, Icurv] = curvature(image, boundaryPoint, curvatureThresh, ...
 %           Image                - input image
 %           boundaryPoint        - number of boundary points over which curvature is found 
 %           curvatureThresh      - the largest curvature magnitude allowed in the cutoff curvature
-%           bp_tangent           - the number of boundary points over which the boundary tangent direction is measured
-%           savePath             - the directory where the variable shape is saved
+%           bp_tangent           - the number of boundary points over which the boundary tangent 
+%                                  direction is measured
+%           interp_resolution    - interpolation resolution -- the minimum number of pixels seperating 
+%                                  boundary points after interpolation
 %           loopclose            - 0 - if open boundaries | 1 - if closed boundaries
 % 
 % Outputs: 
 %           shape                
-%           .curvature          - the boundary curvature at each boundary point (uses snakeNum) Curvatures above or below a cutoff are given the magnitude of the cutoff
+%           .curvature          - the boundary curvature at each boundary point (uses snakeNum) 
+%                                 Curvatures above or below a cutoff are given the magnitude of the cutoff
 %           .meanNegCurvature   - the mean negative curvature
 %           .numIndents         - the number of boundary regions over which the curvature is negative
 %           .tangentAngle       - the angle of the tangent to the boundary at each boundary point
