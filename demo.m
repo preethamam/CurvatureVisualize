@@ -27,7 +27,6 @@ C = shape_details.curvature'*1;
 % Plot
 figure;
 s1 = subplot(1,2,1); imshow(Icurv)
-% colorbar
 s2 = subplot(1,2,2); 
 imshow(Icurv)
 hold on
