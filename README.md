@@ -32,7 +32,7 @@ share the modified version code with me.
 
 | T-section |
 | ------------- |
-| <img width="1399" alt="Tsectionviz" src="https://user-images.githubusercontent.com/28588878/127915909-23db293b-5967-4fea-a301-c29999631615.png"> |
+| ![Tsectionviz 3](https://user-images.githubusercontent.com/28588878/129437490-9a93e10b-4f6a-4248-945f-1faf216e24dd.png) |
 
 # Requirements
 MATLAB <br />
