@@ -7,6 +7,11 @@ node_modules
 # Ignore all files
 *.txt
 *.mat
+*.MAT
+*.pdf
+*.PDF
+*.pcd
+
 "blobviz 2.png"
 "blobviz 3.png"
 "blobviz.png"
@@ -14,11 +19,6 @@ node_modules
 "Tsectionviz 2.png"
 "Tsectionviz 3.png"
 "Tsectionviz.png"
-*.MAT
-*.pdf
-*.PDF
-*.pcd
-
 
 # Ignore files related to API keys
 .env
