@@ -1,4 +1,6 @@
 # Introduction
+[![View Measure curvature and visualize on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/96982-measure-curvature-and-visualize) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=preethamam/CurvatureVisualize)
+
 Measures the shape properties of the object boundaries and displays the curvature.
 
 Original author: **Dr. Meghan Driscoll** <br />
@@ -38,7 +40,5 @@ share the modified version code with me.
 MATLAB <br />
 MATLAB - Parallel Computing Toolbox
 
-# MATLAB Central
-[![View Measure curvature and visualize on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/96982-measure-curvature-and-visualize)
-
+# Feedback
 Please rate and provide feedback for the further improvements.
