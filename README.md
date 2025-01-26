@@ -38,7 +38,7 @@ share the modified version code with me.
 
 # Requirements
 MATLAB <br />
-MATLAB - Parallel Computing Toolbox
+Parallel Computing Toolbox
 
 # Feedback
 Please rate and provide feedback for the further improvements.
