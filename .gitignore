@@ -1,0 +1,29 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore node_modules folder
+node_modules
+
+# Ignore all files
+*.txt
+*.mat
+*.MAT
+*.pdf
+*.PDF
+*.pcd
+*.asv
+
+"blobviz 2.png"
+"blobviz 3.png"
+"blobviz.png"
+"crack2.png"
+"Tsectionviz 2.png"
+"Tsectionviz 3.png"
+"Tsectionviz.png"
+
+# Ignore files related to API keys
+.env
+
+# Ignore SASS config files
+.sass-cache
+
